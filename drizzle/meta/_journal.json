@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1787188130207,
+      "tag": "0000_black_synch",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1787188368126,
+      "tag": "0001_tiresome_forgotten_one",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1787190562743,
+      "tag": "0002_yummy_nitro",
+      "breakpoints": true
+    }
+  ]
+}
